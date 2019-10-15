@@ -25,9 +25,13 @@ I will open another repo specifically for FUNK SVD method.
 The project contains several parts and the key is the User-User Based Collaborative Filtering section.
 
 1 Exploratory Data Analysis
+
 2 Rank Based Recommendations
+
 3 User-User Based Collaborative Filtering
+
 4 Matrix Factorization
+
 5 Extras & Concluding
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
